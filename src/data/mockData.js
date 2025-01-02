@@ -1,0 +1,58 @@
+export const customers = [
+  {
+    id: 1,
+    name: 'Lily-Rose Chedjou',
+    username: '@lilyrose',
+    email: 'lilyrose@gmail.com',
+    date: '2025-01-16',
+    amount: 300.14,
+  },
+  {
+    id: 2,
+    name: 'Caitlyn King',
+    username: '@caitlynk',
+    email: 'hello@caitlynk.com',
+    date: '2025-01-15',
+    amount: 86.32,
+  },
+  {
+    id: 3,
+    name: 'Fleur Cook',
+    username: '@fleur_cook',
+    email: 'fleurcook@gmail.com',
+    date: '2025-01-15',
+    amount: 104.24,
+  },
+  {
+    id: 4,
+    name: 'Marco Kelly',
+    username: '@marcokelly',
+    email: 'marco@marcokelly.co',
+    date: '2025-01-14',
+    amount: 88.48,
+  },
+  {
+    id: 5,
+    name: 'Lulu Meyers',
+    username: '@lulu_meyers',
+    email: 'lulu@lulumeyers.com',
+    date: '2025-01-14',
+    amount: 96.32,
+  },
+  {
+    id: 6,
+    name: 'Mikey Lawrence',
+    username: '@mikeylawrence',
+    email: 'm.lawrence@gmail.com',
+    date: '2025-01-14',
+    amount: 102.10,
+  },
+  {
+    id: 7,
+    name: 'Freya Browning',
+    username: '@freya_b',
+    email: 'freya@freyabrowning.com',
+    date: '2025-01-14',
+    amount: 82.04,
+  }
+];
